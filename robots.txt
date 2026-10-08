@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://saidozen20061-stack.github.io/Bazarek/sitemap.xml
